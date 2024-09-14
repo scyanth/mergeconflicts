@@ -1,3 +1,3 @@
-# mergeconflicts
+# mergeconflicts LOCAL
 
 Tuto Wildcodeschool
