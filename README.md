@@ -1,3 +1,3 @@
-# mergeconflicts
+# mergeconflicts REMOTE
 
 Tuto Wildcodeschool
